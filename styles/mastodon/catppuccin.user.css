@@ -541,7 +541,7 @@ domain("toot.wales") {
 
     .compose-form .autosuggest-textarea__textarea {
       color: @text !important;
-      background-color: @surface1 !important;
+      background-color: @base !important;
     }
 
     .compose-form .compose-form__modifiers,
